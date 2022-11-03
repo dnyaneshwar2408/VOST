@@ -1,0 +1,4 @@
+2022-05-13 15:56:26,532 - apscheduler.scheduler - INFO - Scheduler started
+2022-05-13 15:57:00,784 - googleapiclient.discovery - INFO - URL being requested: GET https://www.googleapis.com/discovery/v1/apis/drive/v3/rest
+2022-05-13 15:57:00,835 - googleapiclient.discovery - INFO - URL being requested: POST https://www.googleapis.com/upload/drive/v3/files?alt=json&uploadType=resumable
+2022-05-13 15:57:02,229 - root - INFO - tushar_493 uploaded 20220513_194710.jpg
